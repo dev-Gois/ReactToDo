@@ -21,6 +21,8 @@ ReactToDo utilizes the following libraries:
 
 ## 🚀 Getting Started
 
+U can just access the link: https://dev-gois.github.io/ReactToDo/ and enjoy! :D
+
 To run the ReactToDo project locally, follow these steps:
 
 1. Clone the GitHub repository:
